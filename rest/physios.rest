@@ -1,4 +1,4 @@
-@url_base = http://localhost:4000
-#url_base = https://booking-server-mw38.onrender.com
+#url_base = http://localhost:4000
+@url_base = https://bookings-verver.onrender.com
 
 GET {{url_base}}/physios

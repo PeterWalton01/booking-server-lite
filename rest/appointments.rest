@@ -1,5 +1,5 @@
-@url_base = http://localhost:4000
-# @url_base = https://booking-server-mw38.onrender.com
+#@url_base = http://localhost:4000
+@url_base = https://bookings-server-r891.onrender.com
 
 
 GET {{url_base}}/appointments
