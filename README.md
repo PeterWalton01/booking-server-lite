@@ -1,4 +1,4 @@
-# Codecademy Portfolio Project - Appointment Booking App (REST API)
+# Codecademy Portfolio Project - Appointment Booking (REST API)
 
 ## Description:
 
